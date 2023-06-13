@@ -33,7 +33,7 @@ A aplicação consiste em um marketplace voltado para a área da saúde onde na 
 
 # Como executar o projeto
 
-## Back end
+## Back end / Front end
 Pré-requisitos: Java 11
 
 ```bash
