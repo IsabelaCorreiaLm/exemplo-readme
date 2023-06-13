@@ -1,18 +1,13 @@
-# Sobre o projeto
+<img src="banner.png" alt="" width="100%" height="%">
 
-Marketplace Sollaris é uma aplicação full stack web e mobile construída durante o 3º semestre do curso técnico de Desenvolvimentos de Sistemas da Escola SENAI-Suiço Brasileira.
+# 📌 Sobre o projeto
 
-A aplicação consiste em um marketplace voltado para a área da saúde onde na aplicação Mobile é possível realizar cadastro de empresas e adcionar, alterar ou excluir os produtos que serão comercializados pela mesma. Já na aplicação Web é possível realizar o cadastro das empresas e usuários, realizar alteração em ambos perfis, cadastrar, alterar ou excluir produtas como empresa e realizar compras como usuário
+ 📍 Marketplace Sollaris é uma aplicação full stack web e mobile construída durante o 3º semestre do curso técnico de Desenvolvimento de Sistemas da Escola SENAI-Suiço Brasileira.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+ 📍 aplicação consiste em um marketplace voltado para a área da saúde onde na aplicação Mobile é possível realizar cadastro de empresas e adcionar, alterar ou excluir os produtos que serão comercializados pela mesma. Já na aplicação Web é possível realizar o cadastro das empresas e usuários, realizar alteração em ambos perfis, cadastrar, alterar ou excluir produtas como empresa e realizar compras como usuário
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-# Tecnologias utilizadas
+# 📌 Tecnologias utilizadas
 ## Back end
 - Java
 - Fliway
@@ -31,7 +26,7 @@ A aplicação consiste em um marketplace voltado para a área da saúde onde na 
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-# Como executar o projeto
+# 📌  Como executar o projeto
 
 ## Back end / Front end
 Pré-requisitos: Java 11
