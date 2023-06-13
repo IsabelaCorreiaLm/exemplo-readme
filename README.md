@@ -15,11 +15,11 @@ A aplicação consiste em um marketplace voltado para a área da saúde onde na 
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- Fliway
+- Spring Data JPA / Hibernate
+- Swagger
 ## Front end
-- HTML / SCSS / JS / TypeScript
+- CSS / SCSS / JS / TypeScript
 - ReactJS
 - React Native
 - NextJs
@@ -43,9 +43,6 @@ git clone https://github.com/SENAIMARKETPLACE/
 # entrar na pasta do projeto back end
 cd backend
 
-# executar o projeto
-./mvnw spring-boot:run
-```
 
 ## Front end web
 Pré-requisitos: npm / yarn
