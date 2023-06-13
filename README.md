@@ -23,6 +23,9 @@ A aplicação consiste em um marketplace voltado para a área da saúde onde na 
 - ReactJS
 - React Native
 - NextJs
+## Mobile
+- Flutter
+- Dart
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -35,7 +38,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/SENAIMARKETPLACE/
 
 # entrar na pasta do projeto back end
 cd backend
@@ -49,7 +52,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/SENAIMARKETPLACE/
 
 # entrar na pasta do projeto front end web
 cd front-web
